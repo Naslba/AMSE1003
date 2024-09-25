@@ -1,1 +1,2 @@
 Today, we learn about Git, configuration management.
+Add new line.
